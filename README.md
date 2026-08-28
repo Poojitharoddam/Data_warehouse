@@ -1,6 +1,6 @@
 # 🏢 Data Warehouse and Advanced SQL Analytics  
 **Consulting and Analytics Club, IIT Guwahati**  
-📅 2025 | 👤 DANDU PRANITHA SHARON RAJ  
+📅 2026 | 👤 RODDAM POOJITHA REDDY 
 
 ---
 
@@ -63,5 +63,5 @@ DATA WAREHOUSE AND ADVANCED SQL ANALYTICS/
 ## 📁 How to Use  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/DANDUPRANITHASHARONRAJ/Data-Warehouse-Advanced-SQL-Analytics.git
+   git clone https://github.com/Poojitharoddam/Data_warehouse.git
   ```
